@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @AK09-1
-- 👀 I’m interested in Web Development, Data Structures and Algorithms
-- 🌱 I’m currently learning.
-- 📫 How to reach me 
-- 1. email: ambardixit09@gmail.com
+<p>
+  <h1 align="center"><b>Hello there, I'm Ambar 👋</b></h1>
+</p>
+<p align="center">
+<!-- <br>
+<a href=""><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp; -->
+<a href="www.linkedin.com/in/ambar-dixit-a975151a6"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn" /></a>&nbsp;
+<a href="mailto:ambardixit09@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+</p>
+<img align="right" alt="GIF" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" height="270px">
+- 👋 Hi, I’m @AK09-1 <br>
+- 👀 I’m interested in Web Development, Data Structures and Algorithms <br>
+- 🌱 I’m currently learning. <br>
+- 📫 How to reach me <br>
+- 1. email: ambardixit09@gmail.com <br> <br>
 
 
 <!---
@@ -18,3 +29,4 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
