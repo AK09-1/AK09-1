@@ -13,7 +13,7 @@
 - 👀 I’m interested in Web Development, Data Structures and Algorithms <br>
 - 🌱 I’m currently learning. <br>
 - 📫 How to reach me <br>
-- 1. email: ambardixit09@gmail.com <br> <br>
+- email: ambardixit09@gmail.com <br> <br>
 
 
 <!---
