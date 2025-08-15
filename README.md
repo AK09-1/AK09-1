@@ -30,9 +30,17 @@
 <!-- GitHub Stats -->
 <h2 align="center" style="margin-top: 3em;">📊 GitHub Stats</h2>
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AK09-1&show_icons=true&theme=radical" width="45%" style="min-width: 280px;" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AK09-1&show_icons=true&hide_border=true&theme=radical" width="45%" style="min-width: 280px;" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AK09-1&show_icons=true&theme=radical"
+       width="45%"
+       style="min-width: 280px;"
+       alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AK09-1&show_icons=true&hide_border=true&theme=radical"
+       width="45%"
+       style="min-width: 280px;"
+       alt="Top Languages" />
 </div>
+
 
 <!-- Tech Stack -->
 <h2 align="center" style="margin-top: 3em;">💻 Tech Stack</h2>
