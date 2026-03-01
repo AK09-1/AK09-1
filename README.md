@@ -1,58 +1,27 @@
-<!-- Greeting -->
-<h1 align="center" style="font-size: 3em;">👋 Hello, I'm Ambar</h1>
-
-<p align="center" style="font-size: 1.1em;">
-  <a href="https://www.linkedin.com/in/ambar-dixit-a975151a6/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:ambardixit09@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
-<!-- About Me -->
-<h2 align="center" style="margin-top: 2em;">👨‍💻 About Me</h2>
-<div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
-  <!-- Left: About text -->
-  <div style="flex: 1; min-width: 280px; max-width: 600px; text-align: left; margin: 10px;">
-    - 👋 Hi, I’m @AK09-1<br>
-    - 👀 I’m passionate about Backend Development, Data Structures & Algorithms<br>
-    - 🌱 I’m currently learning new technologies and improving my skills<br>
-    - 📫 Reach me at: <a href="mailto:ambardixit09@gmail.com">ambardixit09@gmail.com</a>
-  </div>
-  <!-- Right: GIF -->
-  <div style="flex: 1; min-width: 200px; text-align: center; margin: 10px;">
-    <img alt="Busy GIF" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" height="220px" />
-  </div>
-</div>
-
-<!-- GitHub Stats -->
-<h2 align="center" style="margin-top: 3em;">📊 GitHub Stats</h2>
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AK09-1&show_icons=true&theme=radical"
-       width="45%"
-       style="min-width: 280px;"
-       alt="GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AK09-1&show_icons=true&hide_border=true&theme=radical"
-       width="45%"
-       style="min-width: 280px;"
-       alt="Top Languages" />
-</div>
+# 💫 About Me:
+Hi, I'm Ambar Dixit 👋<br>Backend Developer | Bengaluru** | Building scalable real-time systems<br><br>🛠️ Core Expertise<br>- Node.js, Express.js, REST APIs, WebSockets (Socket.IO)<br>- MongoDB, SQL optimization, MVC architecture<br>- Real-time applications (Chat apps, location tracking)<br>- Payment gateway integration, microservices<br><br>🚀 Featured Projects<br>[![Expense Tracking System](https://img.shields.io/badge/Expense_Tracking-System--%20Node.js+Express.js+MongoDB-blue)](https://github.com/AK09-1/Expense-Tracker)<br>[![Real-Time Chat](https://img.shields.io/badge/Live_Chat-Real--time%20Socket.IO-blue)](https://your-render-url.onrender.com)<br>[![Movie Tracking System](https://img.shields.io/badge/Movie_Tracking-System--%20Node.js+Express.js+MongoDB-blue)](https://github.com/AK09-1/MovieHub-API-A-movie-database-API-with-AI-powered-movie-recommendations-)<br>[![Location Tracker](https://img.shields.io/badge/Real--time_Location-Leaflet+Socket.IO-green)](https://github.com/AK09-1/location-tracker)<br><br><br>🌐 Currently Building<br>- Real-time chat with typing indicators (Socket.IO + Render)<br>- Location tracking dashboard (Leaflet + WebSockets)<br>- Payment processing backend (Node.js + Stripe/Razorpay)<br><br>💼 Open to<br>Backend Developer roles • Freelance projects • Open source contributions<br>
 
 
-<!-- Tech Stack -->
-<h2 align="center" style="margin-top: 3em;">💻 Tech Stack</h2>
-<div align="center" style="margin-top: 1em; display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <img alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img alt="Node.js" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img alt="Express.js" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
-  <img alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-  <img alt="C++" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-  <img alt="GitHub" width="60px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-  <img alt="MongoDB" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
-  <img alt="SQL" width="60px" src="https://img.icons8.com/color/48/000000/sql.png" />
-  <img alt="MySQL" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ambar-dixit-a975151a6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ambardixit09@gmail.com) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AK09-1&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AK09-1&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AK09-1&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AK09-1&theme=gotham&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AK09-1&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AK09-1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
